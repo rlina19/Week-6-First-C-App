@@ -1,0 +1,15 @@
+C:\Users\B217\Desktop\myproject\MyRPG\bin\Debug\MyRPG.exe.config
+C:\Users\B217\Desktop\myproject\MyRPG\bin\Debug\MyRPG.exe
+C:\Users\B217\Desktop\myproject\MyRPG\bin\Debug\MyRPG.pdb
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.csproj.AssemblyReference.cache
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MainWindow.g.cs
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\App.g.cs
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG_MarkupCompile.cache
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG_MarkupCompile.lref
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MainWindow.baml
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.g.resources
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.Properties.Resources.resources
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.csproj.GenerateResource.cache
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.csproj.CoreCompileInputs.cache
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.exe
+C:\Users\B217\Desktop\myproject\MyRPG\obj\Debug\MyRPG.pdb
